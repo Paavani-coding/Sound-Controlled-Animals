@@ -1,0 +1,34 @@
+body{
+    font-family: 'Stint Ultra Condensed';
+    background-color: #080c41 !important;
+    color: aliceblue;
+    font-size: 35px;
+
+}
+h3{
+    font-size: 35px !important;
+    border: springgreen 5px solid !important;
+    width: 40%;
+
+}
+h2{
+    font-size: 50px !important;
+    text-decoration: underline !important;
+
+}
+button{
+    width: 30%;
+    font-size: 30px !important ;
+    background-color: crimson !important;
+    font-weight: 500 !important;
+    border: lightcoral 5px solid !important;
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color : crimson !important;
+    border-top: lightcoral 10px solid;
+}
